@@ -1,5 +1,5 @@
-# Hypervision_BlindPeople_SmartRobot
-Hypervision is a smart AI robotic stick for blind people.
+# Hyperion_BlindPeople_SmartRobot
+Hypervion is a smart AI robotic stick for blind people.
 Hyperion is a smart AI Assistant robot for blind people, Features Include Face Recognition, Obstacle avoidance, Object detection, Text recognition, voice feedback
 
 Robotics is one of the leading technologies in the world. Usage of robots has brought myriad remarkable changes in various sectors. Healthcare is one such sector where the robots are effectively being used. Blindness is a disability that affects millions of people worldwide, hindering their ability to navigate independently in their daily lives. So here we are with an assistive robot called “Hyperion” which helps in finding the path for blind.
