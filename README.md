@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to the teams and individuals who have supported the development of **Hyperion**. Your dedication to innovation and inclusivity has made this project possible.
+Special thanks to Dr. Rakesh Sanodiya of IIITS who have supported the development of **Hyperion**. Your dedication to innovation and inclusivity has made this project possible.
 
